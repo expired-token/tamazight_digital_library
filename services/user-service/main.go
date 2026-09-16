@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 	"services/user-service/internal/config"
-	user "services/user-service/internal/users"
+	"services/user-service/internal/user"
 
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"
